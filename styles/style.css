@@ -1,0 +1,80 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.contact_bar {
+    background-color: #e4e4e4;
+    padding: 1px;
+    text-align: right;
+    height: 22px;
+}
+
+.contact_bar h6 {
+    padding: 5px;
+    margin: 0;
+    font-size: 10px;
+}
+
+.contact_bar h6 span {
+    color: #61ff60;
+}
+
+#logo {
+    width: 80px;
+}
+
+.row {
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.box {
+    width: 300px;
+    height: 200px;
+    padding: 25px;
+    margin: 5px;
+    position: relative;
+    bottom: 500px;
+    color: white;
+}
+
+.description {
+    font-size: 12px;
+}
+
+.water {
+    background-color: rgba(70, 199, 255, 0.95);
+}
+
+.food {
+    background-color: rgba(0, 179, 255, 0.95);
+}
+
+.air {
+    background-color: rgba(0, 138, 197, 0.95);
+}
+
+.description_divs {
+    width: fit-content;
+    padding: 10px;
+}
+
+.description_divs:hover {
+    background-color: rgba(138, 220, 255, 1);
+}
+
+.description_divs a {
+    text-decoration: none;
+    color: white;
+}
+
+.button1 {
+    background-color: rgba(20, 150, 206);
+}
+.button2 {
+    background-color: rgb(26, 122, 163);
+}
+.button3 {
+    background-color: rgb(0, 83, 118);
+}
